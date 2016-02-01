@@ -1,4 +1,4 @@
-language: java
+language: node.js
 
 before_install:
   - echo test
